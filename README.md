@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sachin01121993
-- 👀 I’m interested in ... Designing
-- 🌱 I’m currently learning ... UI/Ux
-- 💞️ I’m looking to collaborate on ... shilpapaharia
+- 👋 Hi, I’m @sachin01
+- 👀 I’m interested in ... Data Analytics | Data Managment | MIS
+- 🌱 I’m currently learning ... Data Analytics
 - 📫 How to reach me ...snsachin532@gmail.com
 
 <!---
